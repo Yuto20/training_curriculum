@@ -8,6 +8,7 @@ GEM
     actionmailbox (6.0.4)
       actionpack (= 6.0.4)
       activejob (= 6.0.4)
+      activerecord (= 6.0.4)
       activestorage (= 6.0.4)
       activesupport (= 6.0.4)
       mail (>= 2.7.1)
